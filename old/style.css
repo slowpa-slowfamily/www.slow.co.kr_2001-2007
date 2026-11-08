@@ -1,0 +1,20 @@
+
+.txt01       { font-family: µ¸¿ò; font-size: 9pt; letter-spacing: 1pt }
+
+.mnu01       { font-size: 9pt; font-family: µ¸¿ò; color: #FFFFFF; font-weight: bold }
+
+A.mnu01:link {font-family:µ¸¿òÃ¼; color:"#FFFFFF"; text-decoration:none;}
+A.mnu01:visited {font-family:µ¸¿òÃ¼; color:"#FFFFFF"; text-decoration:none;}
+A.mnu01:hover {font-family:µ¸¿òÃ¼; color:"#FF3300"; text-decoration:none;}
+
+A:link {font-family:µ¸¿òÃ¼; color:"#003399"; text-decoration:none;}
+A:visited {font-family:µ¸¿òÃ¼; color:"#800080"; text-decoration:none;}
+A:hover {font-family:µ¸¿òÃ¼; color:"#FF3300"; text-decoration:underline;}
+
+body { 
+	font-family: µ¸¿ò; 
+	font-size: 9pt; 
+	letter-spacing: 1pt; 
+	background-color: rgb(255,255,255);
+	color: rgb(0,0,0);
+}
