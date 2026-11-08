@@ -1,18 +1,19 @@
+@charset "UTF-8";
 
-.txt01       { font-family: ±¼¸²; font-size: 10pt; letter-spacing: 1pt }
+.txt01       { font-family: êµ´ë¦¼; font-size: 10pt; letter-spacing: 1pt }
 
-.mnu01       { font-size: 10pt; font-family: ±¼¸²; color: #FFFFFF; font-weight: bold }
+.mnu01       { font-size: 10pt; font-family: êµ´ë¦¼; color: #FFFFFF; font-weight: bold }
 
-A.mnu01:link {font-family:±¼¸²Ã¼; color:"#FFFFFF"; text-decoration:none;}
-A.mnu01:visited {font-family:±¼¸²Ã¼; color:"#FFFFFF"; text-decoration:none;}
-A.mnu01:hover {font-family:±¼¸²Ã¼; color:"#FF3300"; text-decoration:none;}
+A.mnu01:link {font-family:êµ´ë¦¼ì²´; color:"#FFFFFF"; text-decoration:none;}
+A.mnu01:visited {font-family:êµ´ë¦¼ì²´; color:"#FFFFFF"; text-decoration:none;}
+A.mnu01:hover {font-family:êµ´ë¦¼ì²´; color:"#FF3300"; text-decoration:none;}
 
-A:link {font-family:±¼¸²Ã¼; color:"#99CCFF"; text-decoration:none;}
-A:visited {font-family:±¼¸²Ã¼; color:"#CCCCFF"; text-decoration:none;}
-A:hover {font-family:±¼¸²Ã¼; color:"#FFCC66"; text-decoration:underline;}
+A:link {font-family:êµ´ë¦¼ì²´; color:"#99CCFF"; text-decoration:none;}
+A:visited {font-family:êµ´ë¦¼ì²´; color:"#CCCCFF"; text-decoration:none;}
+A:hover {font-family:êµ´ë¦¼ì²´; color:"#FFCC66"; text-decoration:underline;}
 
 body { 
-	font-family: ±¼¸²; 
+	font-family: êµ´ë¦¼; 
 	font-size: 9pt; 
 	letter-spacing: 1pt; 
 	background-color: #023F71;

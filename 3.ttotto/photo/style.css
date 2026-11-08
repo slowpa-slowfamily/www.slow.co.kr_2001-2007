@@ -1,18 +1,19 @@
+@charset "UTF-8";
 
-.txt01       { font-family: µ¸¿òÃ¼; font-size: 10pt; letter-spacing: 1pt }
+.txt01       { font-family: ë‹ì›€ì²´; font-size: 10pt; letter-spacing: 1pt }
 
-.mnu01       { font-size: 10pt; font-family: µ¸¿òÃ¼; color: #FFFFFF; font-weight: bold }
+.mnu01       { font-size: 10pt; font-family: ë‹ì›€ì²´; color: #FFFFFF; font-weight: bold }
 
-A.mnu01:link {font-family:µ¸¿òÃ¼; color:"#FFFFFF"; text-decoration:none;}
-A.mnu01:visited {font-family:µ¸¿òÃ¼; color:"#FFFFFF"; text-decoration:none;}
-A.mnu01:hover {font-family:µ¸¿òÃ¼; color:"#FF3300"; text-decoration:none;}
+A.mnu01:link {font-family:ë‹ì›€ì²´; color:"#FFFFFF"; text-decoration:none;}
+A.mnu01:visited {font-family:ë‹ì›€ì²´; color:"#FFFFFF"; text-decoration:none;}
+A.mnu01:hover {font-family:ë‹ì›€ì²´; color:"#FF3300"; text-decoration:none;}
 
-A:link {font-family:µ¸¿òÃ¼; color:"#FFFFFF"; text-decoration:none;}
-A:visited {font-family:µ¸¿òÃ¼; color:"#FFFFFF"; text-decoration:none;}
-A:hover {font-family:µ¸¿òÃ¼; color:"#FFCC66"; text-decoration:underline;}
+A:link {font-family:ë‹ì›€ì²´; color:"#FFFFFF"; text-decoration:none;}
+A:visited {font-family:ë‹ì›€ì²´; color:"#FFFFFF"; text-decoration:none;}
+A:hover {font-family:ë‹ì›€ì²´; color:"#FFCC66"; text-decoration:underline;}
 
 body { 
-	font-family: µ¸¿òÃ¼; 
+	font-family: ë‹ì›€ì²´; 
 	font-size: 9pt; 
 	letter-spacing: 1pt; 
 	background-color: #023F71;
